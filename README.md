@@ -8,10 +8,12 @@ This Java program is a simple text-based game inspired by the popular game show 
 2. Player Choice: Each turn, the player decides whether to spin the wheel or guess a letter/phrase.
 
   • **Spin (S):**
+  
     • The player spins the wheel to earn or lose money.
     • The wheel has various outcomes, ranging from winning money to losing money or landing on zero.
     
   • **Guess (G):**
+  
     • The player can guess either the entire movie title or individual letters.
     • Correct guesses reveal letters in the puzzle.
     • The game ends if the player correctly guesses the full movie title, winning a large sum of money.
