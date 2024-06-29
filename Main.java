@@ -10,9 +10,9 @@ public class Main
 	    int balance = 0;
 	    String player;
 	    
-		System.out.println("Welcome to the Wheel of Fortune.");
+		System.out.println("Welcome to the Wheel of Fortune!");
 		System.out.println("");
-		System.out.println("Available Letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ");
+		System.out.println("Here are your Available Letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ");
 		System.out.println("");
 		System.out.println("Here is the puzzle (It is a Movie.)");
 		System.out.println("");
