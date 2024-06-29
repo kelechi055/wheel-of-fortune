@@ -118,9 +118,9 @@ public class Main
     	        }
     	        else if(guess1.equals("n")){
     	            System.out.println("Correct. M is a letter in this movie. The movie is _ _ _ _  _ _  _ _ _ _ N _ _");
+    	        }
     	        else if(guess1.equals("r")){
     	            System.out.println("Correct. M is a letter in this movie. The movie is _ _ _ _  _ _  _ _ _ _ _ _ S");
-    	        }
     	        }
     	        else{
     	           System.out.println("That is incorrect.");
