@@ -31,11 +31,13 @@ This Java program is a simple text-based game inspired by the popular game show 
 3. Run: Use the command java Main to start the game.
 
 **Notes**
-  • The game currently features a fixed puzzle ("Game of Thrones").
-  • The outcomes of the spins and the amount won or lost are randomized.
-  • The program responds to both uppercase and lowercase inputs for choices and guesses.
+
+    • The game currently features a fixed puzzle ("Game of Thrones").
+    • The outcomes of the spins and the amount won or lost are randomized.
+    • The program responds to both uppercase and lowercase inputs for choices and guesses.
 
 **Future Enhancements**
-  •Adding more puzzles and categories.
-  •Implementing multiple players and turns.
-  •Improving the display of the puzzle state dynamically based on correct guesses.
+
+    •Adding more puzzles and categories.
+    •Implementing multiple players and turns.
+    •Improving the display of the puzzle state dynamically based on correct guesses.
