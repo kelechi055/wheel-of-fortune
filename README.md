@@ -8,12 +8,12 @@ This Java program is a simple text-based game inspired by the popular game show 
 1. **Welcome Screen**: The game starts with a welcome message and the puzzle category (a movie).
 2. **Player Choice**: With each turn, the player decides whether to spin the wheel or guess a letter/phrase.
 
-  • **Spin (S):**
+    • **Spin (S):**
   
     • The player spins the wheel to earn or lose money.
     • The wheel has various outcomes, ranging from winning money to losing money or landing on zero.
     
-  • **Guess (G):**
+    • **Guess (G):**
   
     • The player can guess either the entire movie title or individual letters.
     • Correct guesses reveal letters in the puzzle.
