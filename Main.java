@@ -128,6 +128,7 @@ public class Main
     		}
     	else{
     	    System.out.println("Please try again. Wrong entry.");
+	    System.out.println("Better Luck next time");
     	}
 		}
 	}
