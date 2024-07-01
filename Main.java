@@ -6,7 +6,7 @@ public class Main
 	    Scanner scanner = new Scanner(System.in);
 	    Random random = new Random();
 	    
-	    String movieName = "game of thrones";
+	    String [] movieName = {"Game Of Thrones", "House of Dragons", "Snowfall", "Powerbook II: Ghost"};
 	    int balance = 0;
 	    String player;
 	    
@@ -123,7 +123,7 @@ public class Main
     	            System.out.println("Correct. M is a letter in this movie. The movie is _ _ _ _  _ _  _ _ _ _ _ _ S");
     	        }
     	        else{
-    	           System.out.println("That is incorrect.");
+    	           System.out.println("That is incorrect. Please try again.");
     	        } 
     		}
     	else{
