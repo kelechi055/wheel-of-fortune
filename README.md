@@ -8,6 +8,10 @@ It is a simple text-based game inspired by the popular game show "Wheel of Fortu
 # **How to Play**
 
 1. **Welcome Screen**: The game starts with a welcome message and the puzzle category (a movie).
+<div>
+    <a href="https://ibb.co/3hgg8MY"><img src="https://i.ibb.co/Bs007rK/Screenshot-2024-07-01-132701.png" alt="Screenshot-2024-07-01-132701" border="0"></a>
+</div>
+
 2. **Player Choice**: With each turn, the player decides whether to spin the wheel or guess a letter/phrase.
 
     • **Spin (S):**
@@ -27,15 +31,11 @@ It is a simple text-based game inspired by the popular game show "Wheel of Fortu
 
 # **Setup**
 
-1. **Requirements**: Ensure you have Java installed on your system.
-
-2. **Compile**: Use the command javac Main.java to compile the program.
-
-3. **Run**: Use the command java Main to start the game.
+🤫W.I.P
 
 # **Notes**
 
-    • The game currently features a fixed puzzle ("Game of Thrones").
+    • The game currently features a short list of movies.
     • The outcomes of the spins and the amount won or lost are randomized.
     • The program responds to both uppercase and lowercase inputs for choices and guesses.
 
@@ -44,4 +44,4 @@ It is a simple text-based game inspired by the popular game show "Wheel of Fortu
     •Adding more puzzles and categories.
     •Implementing multiple players and turns.
     •Improving the display of the puzzle state dynamically based on correct guesses.
-    • Developing a GUI or interactive platform.
+    • Developing a better GUI or interactive platform.
