@@ -1,5 +1,8 @@
 # README
+
 **Wheel of Fortune Game**
+
+---
 
 This program is still W.I.P. :construction:
 
