@@ -1,7 +1,7 @@
 # README
 **Wheel of Fortune Game**
 
-This Java program W.I.P.
+This program is still W.I.P. :construction:
 
 It is a simple text-based game inspired by the popular game show "Wheel of Fortune." Players can either spin the wheel to earn money or guess letters in the puzzle, which is a movie title.
 
@@ -9,7 +9,7 @@ It is a simple text-based game inspired by the popular game show "Wheel of Fortu
 
 1. **Welcome Screen**: The game starts with a welcome message and the puzzle category (a movie).
 <div>
-    <a href="https://ibb.co/3hgg8MY"><img src="https://i.ibb.co/Bs007rK/Screenshot-2024-07-01-132701.png" alt="Screenshot-2024-07-01-132701" border="0"></a>
+    <img src="https://i.ibb.co/Bs007rK/Screenshot-2024-07-01-132701.png" alt="Screenshot-2024-07-01-132701" border="0" ></a>
 </div>
 
 2. **Player Choice**: With each turn, the player decides whether to spin the wheel or guess a letter/phrase.
