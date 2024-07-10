@@ -12,7 +12,7 @@ It is a simple text-based game inspired by the popular game show "Wheel of Fortu
 
 1. **Welcome Screen**: The game starts with a welcome message and the puzzle category (a movie).
 <div>
-    <img src="https://i.ibb.co/Bs007rK/Screenshot-2024-07-01-132701.png" alt="Screenshot-2024-07-01-132701" border="0" ></a>
+    <img src="https://i.postimg.cc/RVVxwvNw/wheeloffortune.png" alt="wof" border="0" ></a>
 </div>
 
 2. **Player Choice**: With each turn, the player decides whether to spin the wheel or guess a letter/phrase.
