@@ -6,6 +6,8 @@
 
 This program is still W.I.P. :construction:
 
+Just practicing w/ Java 
+
 It is a simple text-based game inspired by the popular game show "Wheel of Fortune." Players can either spin the wheel to earn money or guess letters in the puzzle, which is a movie title.
 
 # **How to Play**
